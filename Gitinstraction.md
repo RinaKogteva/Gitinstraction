@@ -1,4 +1,4 @@
-![Alt text](Git-Logo-2Color.png)
+![LogoGit](Git-Logo-2Color.png)
 # Работа с Git и GitHud #
 ## 1. Проверка наличия установленного Git ##
 В терминале выполнить команду `git version`
