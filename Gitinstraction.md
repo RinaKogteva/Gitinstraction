@@ -65,4 +65,7 @@ git branch
 git merge
 ```
  ## 12. Удаление веток ##
- 
+ Для удаления ветки ввести команду:
+```
+git branch -d name branch
+```
